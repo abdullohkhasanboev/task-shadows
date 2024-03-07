@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.box1 {
+  display: flex;
+  padding: 0 100px;
+  justify-content: space-between;
+}
+.boxmini {
+  width: 200px;
+  height: 200px;
+  box-shadow: 0px 5px 5px rgb(99, 98, 98);
+}
+p {
+  text-align: center;
+  font-size: 1.5rem;
+}
+.box2 {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+}
+.boxmini1 {
+  width: 200px;
+  height: 200px;
+  box-shadow: 0px 2px 8px rgb(99, 98, 98);
+}
